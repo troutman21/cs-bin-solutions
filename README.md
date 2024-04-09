@@ -1,4 +1,4 @@
-# CS Bin Challenge Solutions 5
+# CS Bin Challenge Solutions 8
 
 ## Files
 1. callbacks.js (http://csbin.io/callbacks)
@@ -8,4 +8,5 @@
 5. functional.js (http://csbin.io/functional)
 6. recursion.js (http://csbin.io/recursion)
 
-something new
+
+Something else that is new
