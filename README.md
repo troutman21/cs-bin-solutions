@@ -1,4 +1,4 @@
-# CS Bin Challenge Solutions 2
+# CS Bin Challenge Solutions 3
 
 ## Files
 1. callbacks.js (http://csbin.io/callbacks)
